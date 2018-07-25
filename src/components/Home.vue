@@ -44,7 +44,7 @@
               </v-flex>
             </v-layout>
 
-            <!--TODO: Load more when scrolled to botom-->
+            <!--TODO: Load more when scrolled to bottom-->
           </v-container>
         </v-flex>
       </v-layout>
@@ -83,6 +83,10 @@
           {
             cover: '/static/images/JUL18.png',
             title: 'JUL18'
+          },
+          {
+            cover: 'https://storage.googleapis.com/medicine-webpage/covers/DEC16_2.png',
+            title: 'DEC16'
           }
         ]
       }
